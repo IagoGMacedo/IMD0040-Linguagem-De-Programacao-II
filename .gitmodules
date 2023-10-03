@@ -10,3 +10,6 @@
 [submodule "1-intro/homeworks/imd0040-atv03-IagoGMacedo"]
 	path = 1-intro/homeworks/imd0040-atv03-IagoGMacedo
 	url = https://github.com/imetropoledigital/imd0040-atv03-IagoGMacedo.git
+[submodule "1-intro/homeworks/imd0040-atv04-IagoGMacedo"]
+	path = 1-intro/homeworks/imd0040-atv04-IagoGMacedo
+	url = https://github.com/imetropoledigital/imd0040-atv04-IagoGMacedo.git
